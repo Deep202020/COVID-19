@@ -28,7 +28,7 @@
             android:layout_marginBottom="10dp"
             android:fontFamily="@font/lato"
             android:gravity="center"
-            android:text="Developed By,\n\n1. Ahana Dutta\n2. Priyanka Saha\n3. Dipisha Sarkar \n4. Sripurna Podder"
+            android:text="Developed By,\n\n1. Deep Kumar Pal\n2. Pooja Ghosh\n3. Jayati Ganguly"
             android:textColor="#000000"
             android:textStyle="bold" />
 
